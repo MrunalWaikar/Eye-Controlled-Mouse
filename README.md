@@ -37,9 +37,6 @@ The **Eye-Controlled Mouse** is an AI-powered system that enables users to contr
 - The system **maps eye movements** to control the cursor.  
 - **Blink detection** is used for mouse clicks.  
 
-## 📸 Demo  
-(Add a GIF or screenshot of your project in action.)  
-
 ## 🚀 Future Enhancements  
 - Improve accuracy with **deep learning models**  
 - Implement **gesture-based scrolling**  
